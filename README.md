@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vikrant Singh
 - 👀 I’m interested in learn Cloud related tools  # new in market
-- 🌱 I’m currently learning  Naemon tool
+- 🌱 I’m currently learning  aws cloud tool
 - 💞️ I’m looking to collaborate on  Linux and devops administrator 
 - 📫 How to reach me , Are you on e-mail ,   vsryash@gmail.com
 
